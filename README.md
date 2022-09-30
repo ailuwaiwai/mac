@@ -1,1 +1,2 @@
 # mac
+learning data science
